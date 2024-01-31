@@ -309,8 +309,8 @@ export const projects = [
       "Netlify",
     ],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/oussamaelassmaoui/Portfolio.git",
+    webapp: "https://github.com/oussamaelassmaoui/Portfolio.git",
   },
 ];
 
